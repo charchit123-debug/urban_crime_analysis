@@ -1,6 +1,4 @@
-Here's a detailed README file for your NYC Crime Analysis Dashboard project. This README provides an overview, installation instructions, usage guidelines, and more, making it easy for others to understand and contribute to your project.
 
----
 
 # NYC Crime Analysis Dashboard
 
